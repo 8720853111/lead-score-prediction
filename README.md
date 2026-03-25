@@ -51,9 +51,12 @@ Companies receive a large number of leads, but only a small percentage convert i
 
 ## 📷 Visualizations
 
-(Add conversion distribution, correlation heatmap, etc.)
-
----
+<img width="598" height="533" alt="image" src="https://github.com/user-attachments/assets/e7be369f-0984-4e49-b15c-00b8d77ba5f1" />
+<img width="598" height="533" alt="image" src="https://github.com/user-attachments/assets/91a201db-6288-4825-bf40-89bf728016ed" />
+<img width="688" height="533" alt="image" src="https://github.com/user-attachments/assets/648fb3da-66fe-43dc-b40d-196bdc3a7b5f" />
+-<img width="1555" height="1110" alt="image" src="https://github.com/user-attachments/assets/a5fc9559-119c-4784-825f-9ee605ccd28f" />
+-<img width="338" height="333" alt="image" src="https://github.com/user-attachments/assets/643ecce2-87be-4911-8473-c8781460273c" />
+<img width="372" height="262" alt="image" src="https://github.com/user-attachments/assets/7a54db61-cb4f-47e3-8a7e-ac8bd5e3463b" />
 
 ## 💡 Business Impact
 
