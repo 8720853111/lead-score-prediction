@@ -33,12 +33,11 @@ Companies receive a large number of leads, but only a small percentage convert i
 
 ## 📈 Model Performance
 
-| Metric    | Value            |
-| --------- | ---------------- |
-| Accuracy  | (add your value) |
-| Precision | (add your value) |
-| Recall    | (add your value) |
-| F1-score  | (add your value) |
+| Metric     | Value             |
+| ---------  | ----------------  |
+| Accuracy   | 0.7908540685944856|
+| Recall     | 0.793392275476966 |
+| Specificity| 0.7884948096885813|
 
 ---
 
